@@ -8,7 +8,7 @@
 ### <div align="center">I'm Shivansh Goel, a frontend developer 👨‍💻pursuing B.Tech CSE🚀</div>  
   
 
-- 🌱 I’m currently learning Backend Development and DSA.  
+- 🌱 I’m currently learning Backend Development.  
   
 
 <br/>  
