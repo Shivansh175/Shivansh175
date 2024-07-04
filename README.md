@@ -5,10 +5,8 @@
 </div>  
   
 
-### <div align="center">I'm Shivansh Goel, a frontend developer 👨‍💻pursuing B.Tech CSE🚀</div>  
-  
-
-- 🌱 I’m currently learning Backend Development.  
+### <div align="center">I'm Shivansh Goel, a fullStack developer 👨‍💻pursuing B.Tech CSE🚀</div>  
+   
   
 
 <br/>  
